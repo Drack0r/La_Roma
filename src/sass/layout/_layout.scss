@@ -1,0 +1,7 @@
+@use "../abstracts/mixins" as *;
+
+.main {
+  @include flex-center;
+  min-height: calc(100vh - 190px);
+  background: lightgray;
+}

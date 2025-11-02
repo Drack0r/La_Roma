@@ -1,0 +1,94 @@
+{
+  "entrees": [
+    {
+      "nom": "Bruschetta al Pomodoro",
+      "prix": 6.5,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Salade Caprese",
+      "prix": 7.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Antipasto Misto",
+      "prix": 8.5,
+      "image": "#",
+      "alt": "#"
+    }
+  ],
+  "plats": [
+    {
+      "nom": "Pizza Margherita",
+      "prix": 10.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Pizza Quattro Formaggi",
+      "prix": 12.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Lasagnes alla Bolognese",
+      "prix": 13.5,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Risotto ai Funghi",
+      "prix": 11.5,
+      "image": "#",
+      "alt": "#"
+    }
+  ],
+  "desserts": [
+    {
+      "nom": "Tiramisu",
+      "prix": 6.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Panna Cotta",
+      "prix": 5.5,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Gelato (2 boules)",
+      "prix": 4.5,
+      "image": "#",
+      "alt": "#"
+    }
+  ],
+  "boissons": [
+    {
+      "nom": "Eau minérale",
+      "prix": 2.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Soda italien",
+      "prix": 3.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Vin rouge (verre)",
+      "prix": 5.0,
+      "image": "#",
+      "alt": "#"
+    },
+    {
+      "nom": "Espresso",
+      "prix": 2.5,
+      "image": "#",
+      "alt": "#"
+    }
+  ]
+}

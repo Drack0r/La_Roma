@@ -1,0 +1,15 @@
+@use "../abstracts/mixins" as *;
+
+.page-home .main {
+  @include flex-column-align-center;
+  justify-content: start;
+  gap: 10px;
+  padding: 10px 0;
+
+  & section {
+    @include flex-center;
+    min-height: 300px;
+    width: 100%;
+    background: lightsalmon;
+  }
+}

@@ -1,0 +1,7 @@
+@use "../abstracts/mixins" as *;
+
+.footer {
+  @include flex-center;
+  height: 100px;
+  background: lightblue;
+}

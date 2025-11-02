@@ -1,0 +1,7 @@
+@use "../abstracts/mixins" as *;
+
+.header {
+  @include flex-center;
+  height: 50px;
+  background: lightblue;
+}

@@ -1,0 +1,8 @@
+@use "../abstracts/variables" as *;
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+
+  // border: 1px dashed $black;
+}
